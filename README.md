@@ -1,32 +1,14 @@
-<h1 align="center">Hi 👋, I'm Kamronbek Makhamadzoidov</h1>
-<h3 align="center"> .NET Software Engineer🌟.</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=KAMRONBEK%20MAKHAMADZOIDOV%20&desc=.NET%20SOFTWARE%20ENGINEER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-
 - 🌱 I am currently a .Net developer
-
-- 📫 How to reach me **kamron25bek25@gmail.com**
-
-- ⚡ Fun fact :- Games and Music🎵 are the reasons to live.
-
+- 📫 How to reach me: [telegram](https://t.me/freedom_0712), [linkedin](https://www.linkedin.com/in/kamronbek-maxamadzoidov-69942a22b/)
+- ⚙️ My specialty : `.net`, `asp.net`, `postgresql`
+- ⚡ Fun fact :- Games, Music🎵 and Piano🎹 are the reasons to live.
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/kamronbek-maxamadzoidov-69942a22b/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="alejandro armenta" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/freedom.0712_/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="alex.new.world.order" height="30" width="40" /></a>
-  <a href="https://t.me/freedom_0712" target="blank"><img align="center"
-      src="https://cdn.freebiesupply.com/logos/large/2x/telegram-logo-png-transparent.png"
-      alt="alex.zero" height="30" width="40" /></a>
-</p>
-
 <br>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dotnet.microsoft.com/en-us//" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png"
@@ -54,13 +36,20 @@
     rel="noreferrer"> <img
       src="https://cdn.cdnlogo.com/logos/d/41/docker.svg" alt="docker"
       width="40" height="40" /> </a> </p>
-
-<br>
-
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Maxamadzoidov&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Maxamadzoidov" 
     bg_color=#808080/></p>
+<br>
+
+
+<div align="center">
+    <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=Maxamadzoidov&theme=algolia&hide_border=true&count_private=true&show_icons=true">
+    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maxamadzoidov&theme=algolia&hide_border=true">
+
+</div>
 
 [Maxamadzoidov](https://github.com/Maxamadzoidov)
