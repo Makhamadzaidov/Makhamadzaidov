@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=KAMRONBEK%20MAKHAMADZOIDOV%20&desc=.NET%20BACKEND%20DEVELOPER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=KAMRONBEK%20MAKHAMADZOIDOV%20&desc=.NET%20SOFTWARE%20ENGINEER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - 🌱 I am currently a .Net developer
-- 📫 How to reach me: [telegram](https://t.me/kamronbek_0712), [linkedin](https://www.linkedin.com/in/kamronbek-maxamadzoidov-69942a22b/)
+- 📫 How to reach me: [telegram](https://t.me/freedom_0712), [linkedin](https://www.linkedin.com/in/kamronbek-maxamadzoidov-69942a22b/)
 - ⚙️ My specialty : `.net`, `asp.net`, `postgresql`
 - ⚡ Fun fact :- Games, Music🎵 and Piano🎹 are the reasons to live.
 <br>
