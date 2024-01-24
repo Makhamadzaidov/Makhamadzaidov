@@ -3,7 +3,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - 🌱 I am currently a .Net developer
-- 📫 How to reach me: [telegram](https://t.me/freedom_0712), [linkedin](https://www.linkedin.com/in/kamronbek-maxamadzoidov-69942a22b/)
+- 📫 How to reach me: [telegram](https://t.me/kamronbek_Makhamadzaidov), [linkedin](https://www.linkedin.com/in/kamronbek-maxamadzoidov-69942a22b/)
 - ⚙️ My specialty : `.net`, `asp.net`, `postgresql`
 - ⚡ Fun fact :- Games, Music🎵 and Piano🎹 are the reasons to live.
 <br>
@@ -38,18 +38,18 @@
       width="40" height="40" /> </a> </p>
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Maxamadzoidov&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="Maxamadzoidov" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Makhamadzaidov&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="Makhamadzaidov" 
     bg_color=#808080/></p>
 <br>
 
 
 <div align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=Maxamadzoidov&theme=algolia&hide_border=true&count_private=true&show_icons=true">
+    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=Makhamadzaidov&theme=algolia&hide_border=true&count_private=true&show_icons=true">
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maxamadzoidov&theme=algolia&hide_border=true">
+    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Makhamadzaidov&theme=algolia&hide_border=true">
 
 </div>
 
-[Maxamadzoidov](https://github.com/Makhamadzaidov)
+[Makhamadzaidov](https://github.com/Makhamadzaidov)
