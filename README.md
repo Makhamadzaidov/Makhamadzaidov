@@ -52,4 +52,4 @@
 
 </div>
 
-[Maxamadzoidov](https://github.com/Maxamadzoidov)
+[Maxamadzoidov](https://github.com/Makhamadzaidov)
