@@ -4,7 +4,7 @@
 
 - 🌱 I am currently a .Net developer
 - 📫 How to reach me: [telegram](https://t.me/kamronbek_Makhamadzaidov), [linkedin](https://www.linkedin.com/in/kamronbek-maxamadzoidov-69942a22b/)
-- ⚙️ My specialty : `.net`, `asp.net`, `postgresql`
+- ⚙️ My specialty : `.net`, `asp.net`, `postgresql`, 'SAP Business One'
 - ⚡ Fun fact :- Games, Music🎵 and Piano🎹 are the reasons to live.
 <br>
 
